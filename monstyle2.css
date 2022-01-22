@@ -1,0 +1,85 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2021, 14:49:56
+    Author     : NCABARET
+*/
+
+th {
+    border: 2px solid #0202ff ; width: 40%;
+}
+td {
+    border: 2px solid #0202ff ; width: 40%;
+}
+table {
+    text-align:center ; border: 2px solid #0202ff ; border-collapse: collapse ; margin: auto;
+}
+p {
+    font-family: versana ; font-size: 150%;
+}
+#menu {
+    color: #ff0000; text-align:center ; 
+}
+div{
+    text-align: center;
+}
+body {
+    background-image: url("https://img.freepik.com/free-vector/abstract-organic-lines-background_1017-26669.jpg?size=626&ext=jpg") ; font-size: 20px ; font-family: verdana ;color: blue
+}
+h1 {
+    color: white; text-align:center ; font-size: 35px ; font-family: monospace ; 
+}
+img {
+    width: 50%; position: relative ; top: 150px ; border: solid ;border-width: 6px ; border-color: grey ; margin: auto; display: block
+}
+
+#bande {
+    background-color: black ; position: absolute ; top: 0px ; left: 0px ; height: 85px ; width: 100%
+}
+#bande2 {
+    background-color: black ; position: absolute ; top: 2200px ; left: 0px ; height: 50px ; width: 100%
+}
+h2 {
+    color: black ; top: 100px ; position: relative ; font-size: 50px ;font-family: fantasy 
+}
+a {
+    top: 180px ; position: relative ;font-family: fantasy ; color: black ; margin: auto
+}
+a:hover {
+   top: 180px ; position: relative ;font-family: fantasy ; color: gray ; margin: auto
+}
+#aa {
+    position: absolute ;  font-family: fantasy ; color: white ; width: 100% ; top: 2215px ; text-align: end; right:20px
+}
+
+ol {
+    position: relative ; color: black ; font-family: monospace ; top: 350px 
+}
+
+table {
+    position: relative ; color:black ; font-family: monospace ; top:150px ; border:solid ; width:80% ; border-left-color: black; table-layout: fixed;
+}
+th {
+    border-bottom-color: black ; border-left-color: black ; border-right-color: black
+}
+td {
+    border-right-color: black
+}
+#table2 {
+    top: 250px
+}
+#tab3 {
+    top: 350px    
+}
+#tabl4{
+        top: 450px
+}
+caption {
+   color:red     
+}
+#img2 {
+    block:display ; width:20% ;left: 200px ; position: relative ; top:-30px
+}
