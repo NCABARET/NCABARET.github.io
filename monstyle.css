@@ -7,7 +7,7 @@ and open the template in the editor.
     Created on : 11 oct. 2021, 14:49:56
     Author     : NCABARET
 */
-body{width:100%;}
+
 th {
     border: 2px solid #0202ff ; width: 40%;
 }
@@ -38,9 +38,7 @@ img {
 #bande {
     background-color: black ; position: absolute ; top: 0px ; left: 0px ; height: 85px ; width: 100%
 }
-#bande2 {
-    background-color: black ; position: absolute ; top: 2500px ; left: 0px ; height: 60px ; width: 100%
-}
+
 
 h2 {
     color: black ; top: 100px ; position: relative ; font-size: 25px ;font-family: fantasy 
@@ -49,9 +47,7 @@ h3 {
     color: black ; top: 100px ; position: relative ; font-size: 20px ;font-family: fantasy 
 }
 
-#aa {
-    position: relative ;  font-family: fantasy ; color: white ; left: 550px ; top: 15px
-}
+
 #div1 a:hover {
    top: 180px ; position: relative ;font-family: fantasy ; color: gray ;
 }
