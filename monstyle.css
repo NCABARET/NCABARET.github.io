@@ -38,6 +38,12 @@ img {
 #bande {
     background-color: black ; position: absolute ; top: 0px ; left: 0px ; height: 85px ; width: 100%
 }
+#bande2 {
+    position:fixed ; bottom:0px;  background-color: black ; left: 0px ; height: 50px ; width: 100%
+}  
+#aa{
+    color:white
+}
 
 
 h2 {
