@@ -39,10 +39,10 @@ img {
     background-color: black ; position:fixed ; top: 0px ; height: 85px ; width: 100% ; z-index:100
 }
 #bande2 {
-     position:fixed ;  background-color: black ; bottom: -100px ; height: 50px ; width: 100%; z-index:101
+     position:fixed ;  background-color: black ; bottom: 0px ; height: 50px ; width: 100%; z-index:101 ; 
 }  
 #aa{
-    color:white ; margin-left: 70%
+    color:white ; margin-left: 80%; 
 }
 
 
