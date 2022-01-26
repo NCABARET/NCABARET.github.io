@@ -29,7 +29,7 @@ div{
 body {
     background-image: url("https://img.freepik.com/free-vector/abstract-organic-lines-background_1017-26669.jpg?size=626&ext=jpg") ; font-size: 20px ; font-family: verdana ;color: blue
 }
-#aaa {
+#titre {
     color: white; text-align:center ; font-size: 35px ; font-family: monospace ; top: -18px
 }
 img {
@@ -37,21 +37,25 @@ img {
 }
 
 #bande {
-    background-color: black ; position: absolute ; top: 0px ; left: 0px ; height: 85px ; width: 100%
+    background-color: black ; position:fixed ; top: 0px ; height: 100px ; width: 100% ; z-index:100 ; left:0px
+}
+#bande2 {
+     position:fixed ;  background-color: black ; bottom: 0px ; height: 33px ; width: 100%; z-index:101 ; left:0px
+}  
+#aa{
+    color:white ; margin-left: 80%; 
 }
 
 h2 {
     color: black ; top: 100px ; position: relative ; font-size: 50px ;font-family: fantasy 
 }
-a {
+#lien {
     top: 180px ; position: relative ;font-family: fantasy ; color: black ; margin: auto
 }
-a:hover {
+#lien:hover {
    top: 180px ; position: relative ;font-family: fantasy ; color: gray ; margin: auto
 }
-#aa {
-    position: absolute ;  font-family: fantasy ; color: black ; width: 100% ; top: 1665px ; text-align: end; right:20px
-}
+
 
 ol {
     position: relative ; color: black ; font-family: monospace ; top: 350px 
